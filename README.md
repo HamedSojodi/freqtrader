@@ -1,0 +1,2 @@
+# freqtrader
+exchange
